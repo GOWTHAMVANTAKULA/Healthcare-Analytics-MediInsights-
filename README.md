@@ -55,3 +55,10 @@ This project leverages Power BI to analyze patient and hospital data, revealing 
 # Conclusion
 
 This dashboard helps healthcare stakeholders track hospital efficiency, monitor patient recovery trends, and optimize treatment costs. The insights support data-driven decision-making for better patient care and hospital management.
+
+**🛠️ Tools & Technologies**
+
+* Power BI – Dashboard visualization and interactive reporting
+* Power Query – Data transformation and cleaning
+* Excel/CSV – Raw data source
+* GitHub – Project repository
